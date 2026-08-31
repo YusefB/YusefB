@@ -1,16 +1,26 @@
-## Hi there 👋
+# yo, i'm yusef 👋
 
-<!--
-**YusefB/YusefB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ai student @ usf  
+i like building stuff, messing with linux, learning about ai, and spending way too much time fishing
 
-Here are some ideas to get you started:
+### what i'm into
+- 🎣 fishing
+- 🤖 ai / machine learning
+- 💻 software
+- 🐧 linux + infrastructure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### things i actually use
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,python,vim,linux,git,vscode,java,ubuntu" />
+</p>
+
+### currently
+- studying artificial intelligence
+- messing around with linux + ai
+- building things when i get an idea
+- probably fishing somewhere 
+
+---
+
+> code when the fish aren't biting
