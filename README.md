@@ -1,6 +1,6 @@
 # whoami
 ai student @ usf  
-i like building stuff, messing with linux, learning about ai, and spending way too much time fishing
+i like building stuff, messing with linux, learning about ai, and fishing
 
 ### what i'm into
 - 🎣 fishing
