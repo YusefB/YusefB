@@ -1,12 +1,16 @@
+<img align="right" src="https://flagcdn.com/w40/ps.png" width="32" alt="Palestine flag" />
+
 # whoami
-ai student @ usf  
+
+ai student @ usf
 i like building stuff, messing with linux, learning about ai, and fishing
 
 ### what i'm into
-- 🎣 fishing
-- 🤖 ai / machine learning
-- 💻 software
-- 🐧 linux + infrastructure
+
+* 🎣 fishing
+* 🤖 ai / machine learning
+* 💻 software
+* 🐧 linux + infrastructure
 
 ### things i actually use
 
@@ -15,10 +19,11 @@ i like building stuff, messing with linux, learning about ai, and fishing
 </p>
 
 ### currently
-- studying artificial intelligence
-- messing around with linux + ai
-- building things when i get an idea
-- probably fishing somewhere 
+
+* studying artificial intelligence
+* messing around with linux + ai
+* building things when i get an idea
+* probably fishing somewhere
 
 ---
 
