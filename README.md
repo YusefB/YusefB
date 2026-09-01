@@ -15,14 +15,15 @@ i like building stuff, messing with linux, learning about ai, and fishing
 ### things i actually use
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,python,vim,linux,git,vscode,java,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,ts,js,bash,react,nextjs,flask,mysql,linux,ubuntu,redhat,ansible,git,github,vim,vscode" />
 </p>
+
 
 ### currently
 
 * studying artificial intelligence
-* messing around with linux + ai
-* building things when i get an idea
+* working with linux, automation, and infrastructure
+* building software and learning more about ai/ml
 * probably fishing somewhere
 
 ---
