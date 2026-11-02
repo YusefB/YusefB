@@ -19,6 +19,10 @@ i like building stuff, messing with linux, learning about ai, and fishing
 </p>
 
 
+### my koi
+
+<img src="koi/koi.gif" width="256" alt="My koi, grown from my GitHub activity" />
+
 ### currently
 
 * studying artificial intelligence
