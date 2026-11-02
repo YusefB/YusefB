@@ -4,14 +4,17 @@
 
 <img src="https://raw.githubusercontent.com/YusefB/YusefB/main/koi/koi.gif" width="256" alt="My black koi swimming in a circle" />
 
-# hey, i'm yusef 🎣
+# yusef bayyat
 
-ai student @ usf · linux tinkerer · probably fishing
+**software engineering · artificial intelligence @ usf**
 
-building software, learning how things work, and occasionally breaking them.
+i like building useful software and figuring out how things work.<br>
+my background includes infrastructure and research on llms for software vulnerability detection.
 
-**python · c · java · typescript · linux**
+**python · c · java**
 
-> code when the fish aren't biting
+[linkedin](https://www.linkedin.com/in/bayyat)
+
+*probably fishing when i'm not here.*
 
 </div>
