@@ -8,7 +8,7 @@ on:
     - cron: "20 0 * * *"
   workflow_dispatch:
   push:
-    paths: [.github/workflows/koi.yml]
+    paths: [.github/workflows/koi.yml, ".github/koi-renderer/**"]
 
 permissions:
   contents: write
@@ -24,6 +24,12 @@ jobs:
         with:
           body: black
           output-dir: koi
+      - name: Ensure stable Rust is available
+        run: rustup update stable --no-self-update
+      - name: Render the black koi circling
+        run: >-
+          cargo +stable run --release --manifest-path .github/koi-renderer/Cargo.toml --
+          "$RUNNER_TEMP/koi-snapshot.json" koi/koi.gif
       - name: Commit the koi if it changed
         shell: bash
         run: |
