@@ -1,35 +1,17 @@
 <img align="right" src="https://flagcdn.com/w40/ps.png" width="32" alt="Palestine flag" />
 
-# whoami
+<div align="center">
 
-ai student @ usf
-i like building stuff, messing with linux, learning about ai, and fishing
+<img src="https://raw.githubusercontent.com/YusefB/YusefB/main/koi/koi.gif" width="256" alt="My black koi swimming in a circle" />
 
-### what i'm into
+# hey, i'm yusef 🎣
 
-* 🎣 fishing
-* 🤖 ai / machine learning
-* 💻 software
-* 🐧 linux + infrastructure
+ai student @ usf · linux tinkerer · probably fishing
 
-### things i actually use
+building software, learning how things work, and occasionally breaking them.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,java,python,ts,js,bash,react,nextjs,flask,mysql,linux,ubuntu,redhat,ansible,git,github,vim,vscode" />
-</p>
-
-
-### my koi
-
-<img src="koi/koi.gif" width="256" alt="My koi, grown from my GitHub activity" />
-
-### currently
-
-* studying artificial intelligence
-* working with linux, automation, and infrastructure
-* building software and learning more about ai/ml
-* probably fishing somewhere
-
----
+**python · c · java · typescript · linux**
 
 > code when the fish aren't biting
+
+</div>
